@@ -2,6 +2,7 @@
 Probe design method for in situ HCR method (ver1)
 
 
+# How to use the script
 
 ## 1. Obtain reference sequence from NCBI
 
@@ -17,5 +18,10 @@ https://www.ncbi.nlm.nih.gov/nuccore/NM_173391.3
 1. Enter the length of the target RNA
 2. Enter the hairpin type you like to make
 
-## 3. Enter the target region using MATLAB script
+## 3. Perform BLAST sequence similarity check
+
+
+## 4. Enter the target region using MATLAB script
 ![My Image2](Images/Table_After.jpg)
+
+## 5. Run the script using the table
