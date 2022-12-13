@@ -71,10 +71,17 @@ https://www.ncbi.nlm.nih.gov/nuccore/NM_173391.3
 1. Enter the length of the target RNA
 2. Enter the hairpin type you like to make
 
-## 3. Perform BLAST sequence similarity check
+## 3. Make a folder structure
+Fasta_seq >Mouse_Gad1
+          >Mouse_Tph2
+
+![My Image3](Images/Folder_structure.jpg)
 
 
-## 4. Enter the target region using MATLAB script
+## 4. Perform BLAST sequence similarity check
+
+
+## 5. Enter the target region using MATLAB script
 ![My Image2](Images/Table_After.jpg)
 
 ## 5. Run the script using the table
