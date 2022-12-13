@@ -2,7 +2,7 @@
 Probe design method for in situ HCR method (ver1)
 
 
-# How to use the script
+# How to design the probes using the scripts
 
 ## 1. Obtain reference sequence from NCBI
 
