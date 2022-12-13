@@ -6,11 +6,13 @@ Probe design method for in situ HCR method (ver1)
 
 ## 1. Obtain reference sequence from NCBI
 
-###Example1, Gad1 gene, mRNA reference sequence NM_008077.5, 3283 bp
+Example1, Gad1 gene, mRNA reference sequence NM_008077.5, 3283 bp
 
 https://www.ncbi.nlm.nih.gov/nuccore/NM_008077.5
 
->NM_008077.5 Mus musculus glutamate decarboxylase 1 (Gad1), transcript variant 1, mRNA
+Fasta sequence
+
+">NM_008077.5 Mus musculus glutamate decarboxylase 1 (Gad1), transcript variant 1, mRNA"
 GCCTCCCCCAAGCCCAGCGGCCGCCTCTCCGGATCTCTCCCTTCTTCAGGCTCTCCCGTGCCGGACCAGG
 GATCGTGCAAGCAAGGAAGCAGCCCTGGGGTGACACCCAGCACGTACTCCTGTGACAGAGCCGAGCCCAG
 CCCAGCCCCGGGACGCTTCGCAGAGGAGTCGCGGGAGGGTCCAGCTCGCTGTCGCTGAACCGAGCCTGTT
