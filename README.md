@@ -422,4 +422,4 @@ You will have the result shown in the picture
 ## Tph2 probe sequence
 ![My Image13](Images/Tph2_sequence.jpg)
 
-
+Reduced version has a smaller number of the probes.
