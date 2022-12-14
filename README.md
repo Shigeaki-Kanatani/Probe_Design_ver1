@@ -120,6 +120,17 @@ Fasta_seq >Mouse_Gad1
 
 
 ## 4. Perform BLAST sequence similarity check
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+
+![My Image4](Images/Blast_example.jpg)
+
+1. Enter the fast sequence
+2. Select "Genomic + transcript databases", "Mouse genomic plus transcript (Mouse G+T)
+3. Optimized for "Somewhat similar sequences (blastn)
+4. Other setting is default
+
+
+
 
 
 ## 5. Enter the target region using MATLAB script
