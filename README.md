@@ -394,3 +394,12 @@ target_seq_column for Tph2 will be
 
 ## 8. Run the probe design script to make whole probe sequence
 
+          Example
+          FASTA_dir= 'C:\Users\BIC_Laptop1\Desktop\Github_readme\Probe_design_introduction\FASTA_seq';
+          out_dir= 'C:\Users\BIC_Laptop1\Desktop\Github_readme\Probe_design_introduction\out_dir'
+          max_probe_number=50;
+          Probelist is drag&drop the table you made and change the name to 'Probelist'.
+
+          Run
+          probe_design_main_Github(FASTA_dir, Probelist, out_dir, max_probe_number)
+
