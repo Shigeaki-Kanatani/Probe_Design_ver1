@@ -146,6 +146,8 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LI
 
 ## 6. Run the MATLAB script and make a table
 
+The script is "target_selection_ver1.m"
+
 Example of Gad1
 
           sequence_length= 3283;
@@ -383,5 +385,11 @@ Copy the values to the target table
 
 
 ## 7. Repeat the process above and finish making a target region table
-![My Image2](Images/Table_After.jpg)
+
+target_seq_column for Tph2 will be 
+[1	328	1509	2626] 
+
+![My Image2](Images/Table_AfterTph2.jpg)
+
+## 8. Run the probe design script to make whole probe sequence
 
