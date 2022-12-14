@@ -109,12 +109,12 @@ ATGAATGCTTCTCAATAAACAGAATCTTGCCCCCAA
 ## 2. Make a probe table 
 ![My Image1](Images/Table_Before.jpg)
 
-1. Enter the length of the target RNA
-2. Enter the hairpin type you like to make
+          1. Enter the length of the target RNA
+          2. Enter the hairpin type you like to make
 
 ## 3. Make a folder structure
-Fasta_seq >Mouse_Gad1
-          >Mouse_Tph2
+          Fasta_seq >Mouse_Gad1
+                    >Mouse_Tph2
 
 ![My Image3](Images/Folder_structure.jpg)
 
@@ -124,10 +124,10 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LI
 
 ![My Image4](Images/Blast_example.jpg)
 
-1. Enter the fast sequence
-2. Select "Genomic + transcript databases", "Mouse genomic plus transcript (Mouse G+T)
-3. Optimized for "Somewhat similar sequences (blastn)
-4. Other setting is default
+          1. Enter the fast sequence
+          2. Select "Genomic + transcript databases", "Mouse genomic plus transcript (Mouse G+T)
+          3. Optimized for "Somewhat similar sequences (blastn)
+          4. Other setting is default
 
 ## 5. Download hit table file and specify the regions which are not used for probe design
 
