@@ -132,12 +132,21 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LI
 ## 5. Download hit table file and specify the regions which are not used for probe design
 
 ![My Image4](Images/Blast_result1.jpg)
-![My Image4](Images/Blast_result2.jpg)
 ![My Image4](Images/Blast_result3.jpg)
 
+          Download hit table from the download button on the right top corner
 
 
-## 5. Enter the target region using MATLAB script
+![My Image4](Images/Blast_result2.jpg)
+
+          Confirm what transcripts you want to remove (in this case after Gad2)          
+
+![My Image2](Images/Hit_table_selection.jpg)
+
+
+## 6. Run the MATLAB script and make a table
 ![My Image2](Images/Table_After.jpg)
 
-## 5. Run the script using the table
+
+## 7. Enter the target region using MATLAB script
+
