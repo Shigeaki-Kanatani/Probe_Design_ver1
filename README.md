@@ -412,8 +412,13 @@ You will have the result shown in the picture
 2. Probe_list of each transcripts
 3. opool excel file for ordering
 
+##Probe_design_summary
 ![My Image11](Images/probe_design_summary1.jpg)
+
+##Gad1 probe sequence
 ![My Image12](Images/Gad1_sequence.jpg)
+
+##Tph2 probe sequence
 ![My Image13](Images/Tph2_sequence.jpg)
 
 
