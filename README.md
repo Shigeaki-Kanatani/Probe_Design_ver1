@@ -374,9 +374,13 @@ Example of Gad1
           [output_list, target_seq_column] = target_selection_ver1(sequence_length, rem_start, rem_end);
 
 target_seq_column will be 
-[1	730	2057	2247	2310	3283]
+[1	730	2057	2247	2310	3283] 
+(Result was done on 2022-12-14)
 
 Copy the values to the target table
+
+![My Image10](Images/Table_AfterGad1.jpg)
+
 
 ## 7. Repeat the process above and finish making a target region table
 ![My Image2](Images/Table_After.jpg)
