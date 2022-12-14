@@ -129,7 +129,11 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LI
 3. Optimized for "Somewhat similar sequences (blastn)
 4. Other setting is default
 
+## 5. Download hit table file and specify the regions which are not used for probe design
 
+![My Image4](Images/Blast_result1.jpg)
+![My Image4](Images/Blast_result2.jpg)
+![My Image4](Images/Blast_result3.jpg)
 
 
 
