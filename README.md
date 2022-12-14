@@ -423,3 +423,4 @@ You will have the result shown in the picture
 ![My Image13](Images/Tph2_sequence.jpg)
 
 Reduced version has a smaller number of the probes.
+opool excel file can be used for ordering probe for IDT_DNA company.
