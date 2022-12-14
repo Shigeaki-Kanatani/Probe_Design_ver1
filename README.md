@@ -387,7 +387,8 @@ Copy the values to the target table
 ## 7. Repeat the process above and finish making a target region table
 
 target_seq_column for Tph2 will be 
-[1	328	1509	2626] 
+[1	328	1509	2626]. 
+(Result was done on 2022-12-14)
 
 ![My Image2](Images/Table_AfterTph2.jpg)
 
