@@ -403,3 +403,17 @@ target_seq_column for Tph2 will be
           Run
           probe_design_main_Github(FASTA_dir, Probelist, out_dir, max_probe_number)
 
+
+You will have the result shown in the picture
+
+![My Image14](Images/out_dir1.jpg)
+
+1. Probe_design_summary
+2. Probe_list of each transcripts
+3. opool excel file for ordering
+
+![My Image11](Images/probe_design_summary1.jpg)
+![My Image12](Images/Gad1_sequence.jpg)
+![My Image13](Images/Tph2_sequence.jpg)
+
+
