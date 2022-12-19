@@ -46,7 +46,10 @@ for i=1:num_of_gene
  
     length_sequence = target_row{1, 4:end};
 
-    length_sequence = str2double(length_sequence);
+    if isstring(length_sequence) ==1 
+        length_sequence = str2double(length_sequence);
+    end
+        
     length_sequence(isnan(length_sequence)) = [];
 
     trial_sequence = length(length_sequence) ./ 2;
