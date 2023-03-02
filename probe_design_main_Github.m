@@ -27,6 +27,7 @@ All_probe_list= {};
 hairpin_type = strings(1, num_of_gene);
 Fasta_header = strings(1, num_of_gene);
 Fasta_seq = strings(1, num_of_gene);
+error_flag = 0;
 
 %% Probe sequence design (Tiling)
 
@@ -34,9 +35,17 @@ for i=1:num_of_gene
 
     target_name = folder_list.name{i};
     check_vector = Probelist.Gene == target_name;
+
+    if sum(check_vector) == 0
+        disp([target_name ' does not match in the probe list']);
+        error_flag = 1;
+        continue
+    end
+
+
     target_row = Probelist(check_vector, :);  % extract target_row
     hairpin_type(i) = char(target_row.hairpin);
-    
+
     gene_dir = [FASTA_dir '\' char(target_name)]; 
     gene_fastatxt = dir([gene_dir '\' '*.fasta']);
     fname = [gene_fastatxt.folder '\' gene_fastatxt.name]; 
@@ -77,6 +86,9 @@ for i=1:num_of_gene
      
 end
 
+if error_flag == 1
+    return
+end 
 
 %% save data
     
